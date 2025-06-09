@@ -67,7 +67,7 @@ npm run dev
 
 ---
 
-## Screenshots of the app
+## Screenshots of the page
 
 ![Image 1](assets/image.png)
 ![Image 2](assets/image2.png)
@@ -77,6 +77,6 @@ npm run dev
 
 ---
 
-## Video of the app
+## Video of the page
 
 ![Demo Video](assets/20250607-0714-44.1833356.gif)
